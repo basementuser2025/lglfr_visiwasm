@@ -1,0 +1,5 @@
+git clone https://github.com/basementuser2025/lglfr_visiwasm.git
+aria2c https://origin.picgo.net/2025/08/14/vswsm_windows.zipd0b2f537b4421f60.png
+aria2c https://origin.picgo.net/2025/08/14/lglfr_x86_64-linux_vswsm.zip9bb99d78fd064b75.png
+aria2c https://origin.picgo.net/2025/08/14/lglfr_aarch-linux-gnu_vswsm.zipd58d20f4ca503b47.png
+aria2c https://origin.picgo.net/2025/08/14/lglfr_android_vswsm.zip99a6b92a0c2f2a9e.png
